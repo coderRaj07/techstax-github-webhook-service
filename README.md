@@ -21,6 +21,9 @@ A **Flask-based GitHub webhook receiver** that captures repository activity even
 * **Deployed Application:**
   👉 [https://techstax-github-webhook-service.onrender.com/](https://techstax-github-webhook-service.onrender.com/)
 
+* **Event Response:**
+  💬 [https://techstax-github-webhook-service.onrender.com/events](https://techstax-github-webhook-service.onrender.com/events)
+
 * **Demo Video Walkthrough:**
   🎥 [https://youtu.be/6YqGzMOcYlE](https://youtu.be/6YqGzMOcYlE)
 
