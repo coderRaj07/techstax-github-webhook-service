@@ -2,18 +2,6 @@
 
 A **Flask-based GitHub webhook receiver** that captures repository activity events and displays them in near real-time via a polling UI.
 
-## ✨ Features
-
-* Listens to GitHub webhook events:
-
-  * **Push**
-  * **Pull Request**
-  * **Merge**
-* Stores minimal event metadata in **MongoDB**
-* Frontend UI polls the backend every **15 seconds**
-* Displays recent GitHub activity in a clean, readable format
-* Deployed and publicly accessible
-
 ---
 
 ## 🌐 Live Demo
@@ -26,6 +14,20 @@ A **Flask-based GitHub webhook receiver** that captures repository activity even
 
 * **Demo Video Walkthrough:**
   🎥 [https://youtu.be/6YqGzMOcYlE](https://youtu.be/6YqGzMOcYlE)
+
+---
+
+## ✨ Features
+
+* Listens to GitHub webhook events:
+
+  * **Push**
+  * **Pull Request**
+  * **Merge**
+* Stores minimal event metadata in **MongoDB**
+* Frontend UI polls the backend every **15 seconds**
+* Displays recent GitHub activity in a clean, readable format
+* Deployed and publicly accessible
 
 ---
 
